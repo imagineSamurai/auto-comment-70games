@@ -1,43 +1,53 @@
-# Random Number Auto-Submitter Script
+# Auto Number Submitter for 70games.net
 
-A Orangemonkey userscript that automatically submits random numbers to 70games.net forum.
+A simple Orangemonkey script that automatically submits random numbers to 70games.net forum posts.
 
 ## Features
 
 - 🎲 Generates random numbers from 1-10
 - 🔄 Auto-submits the form
-- ⚡ Quick refresh after submission (0.5 seconds)
+- ⚡ Quick refresh after submission (0.5s)
 - 📋 Clean interface with Yes/No dialog
 - 🛡️ Safe to use with confirmation before starting
 
-## Installation
+## How to Install
 
-1. Install [Orangemonkey](https://chromewebstore.google.com/detail/orangemonkey/ekmeppjgajofkpiofbebgcbohbmfldaf) browser extension
-2. Click [here](script.js) to install the script
-   - Or create a new script in Orangemonkey and copy the code from script.js
+1. Get [Orangemonkey](https://chromewebstore.google.com/detail/orangemonkey/ekmeppjgajofkpiofbebgcbohbmfldaf) from Chrome Web Store
+2. After installing Orangemonkey:
+   - Click the extension icon
+   - Go to "Script Store"
+   - Click "My Scripts"
+   - Click "New" (top-right)
+   - Copy the code from [script.js](script.js)
+   - Click "Save & Close"
 
-## Usage
+## How to Use
 
-1. Navigate to 70games.net
-2. A small dialog will appear in the top-right corner
-3. Click "Yes" to start auto-submission
-4. Click "No" to close the dialog
+1. Go to 70games.net
+2. Look for a small dialog box in the top-right corner
+3. Click:
+   - "Yes" to start auto-submission
+   - "No" to close the dialog
 
-## Configuration
+## Technical Details
 
-The script is currently configured to:
-- Generate numbers 1-10 in random order
-- Submit to textarea with ID 'message'
-- Click button with ID 'submit'
-- Refresh page after 500ms (0.5 seconds)
+Script settings:
+- Generates shuffled numbers 1-10
+- Targets message box with ID 'message'
+- Uses submit button with ID 'submit'
+- Page refresh delay: 500ms
+
+## Author & Support
+
+**imagineSamurai** - *Script Developer*
+- [Ko-fi](https://ko-fi.com/imaginesamurai) ☕ Buy me a coffee
+
+If you find this script helpful, consider supporting the development:
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/imaginesamurai)
 
 ## License
 
 MIT License - Feel free to modify and use as needed.
-
-## Author
-
-- **Nawaf** - *Initial work*
 
 ## Contributing
 
@@ -45,4 +55,4 @@ Feel free to submit issues and enhancement requests!
 
 ## Disclaimer
 
-This script is for educational purposes only. Use at your own risk and ensure you comply with the website's terms of service. 
+For educational purposes only. Use responsibly and in accordance with website rules. 
