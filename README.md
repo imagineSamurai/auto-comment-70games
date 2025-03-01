@@ -1,6 +1,6 @@
 # Random Number Auto-Submitter Script
 
-A Orangemonkey userscript that automatically submits random numbers to a form and refreshes the page.
+A Orangemonkey userscript that automatically submits random numbers to 70games.net forum.
 
 ## Features
 
@@ -13,12 +13,12 @@ A Orangemonkey userscript that automatically submits random numbers to a form an
 ## Installation
 
 1. Install [Orangemonkey](https://chromewebstore.google.com/detail/orangemonkey/ekmeppjgajofkpiofbebgcbohbmfldaf) browser extension
-2. Click [here](link-to-your-script.user.js) to install the script
-   - Or create a new script in Orangemonkey and copy the provided code
+2. Click [here](script.js) to install the script
+   - Or create a new script in Orangemonkey and copy the code from script.js
 
 ## Usage
 
-1. Navigate to the target website
+1. Navigate to 70games.net
 2. A small dialog will appear in the top-right corner
 3. Click "Yes" to start auto-submission
 4. Click "No" to close the dialog
