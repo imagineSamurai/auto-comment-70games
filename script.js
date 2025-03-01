@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Random Number Submitter with Delayed Auto Refresh
+// @name         Random Number Submitter
 // @namespace    http://tampermonkey.net/
 // @version      1.2
 // @description  Type random numbers, submit the form, and refresh the page with delay
