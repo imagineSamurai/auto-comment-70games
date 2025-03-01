@@ -37,13 +37,14 @@ Script settings:
 - Uses submit button with ID 'submit'
 - Page refresh delay: 500ms
 
-## Author & Support
+## Author
 
 **imagineSamurai** - *Script Developer*
-- [Ko-fi](https://ko-fi.com/imaginesamurai) ☕ Buy me a coffee
 
-If you find this script helpful, consider supporting the development:
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/imaginesamurai)
+## Support
+<a href="https://ko-fi.com/imaginesamurai" target="_blank" style="text-decoration: none; display: inline-block;">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="46" height="34" alt="ko-fi logo"  />
+    </a>
 
 ## License
 
